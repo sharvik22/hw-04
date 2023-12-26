@@ -34,6 +34,7 @@
 
 ---
 ### Решение 2*
+![alt text](https://github.com/sharvik22/hw-04/blob/main/images/2.jpg)
 
 ### Задание 3*
 Подключите Node Exporter к серверу Prometheus.
@@ -54,6 +55,8 @@
 
 ---
 ### Решение 3*
+![alt text](https://github.com/sharvik22/hw-04/blob/main/images/3-1.jpg)
+![alt text](https://github.com/sharvik22/hw-04/blob/main/images/3-2.jpg)
 
 ### Задание 4*
 Установите Grafana.
@@ -63,6 +66,8 @@
 
 ---
 ### Решение 4*
+![alt text](https://github.com/sharvik22/hw-04/blob/main/images/4-1.jpg)
+![alt text](https://github.com/sharvik22/hw-04/blob/main/images/4-2.jpg)
 
 ### Задание 5*
 Интегрируйте Grafana и Prometheus.
@@ -76,4 +81,6 @@
 3. Задание оформлено в шаблоне с решением и опубликовано на GitHub
 
 ### Решение 5*
+![alt text](https://github.com/sharvik22/hw-04/blob/main/images/5-1.jpg)
+![alt text](https://github.com/sharvik22/hw-04/blob/main/images/5-2.jpg)
 
