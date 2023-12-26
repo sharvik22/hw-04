@@ -16,6 +16,10 @@
 ---
 ### Решение 1*
 
+![alt text](https://github.com/sharvik22/hw-04/blob/main/images/1.jpg)
+
+
+
 ### Задание 2*
 Установите Node Exporter.
 
